@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+        "cod": "Código: 210.5654",
+        "nombre": "Conjunto Frutilla",
+        "foto":"../img/CONJUNTO,FRUTILLA.jpg"
+        },
+        {
+        "cod": "Código: 215.5754",
+        "nombre": "Short Cleo",
+        "foto":"../img/short.cleo.jpg"
+        },
+        {
+        "cod": "Código: 221.8634",
+        "nombre": "Conjunto Catriel",
+        "foto":"../img/conjunto.catriel.jpg"
+        },
+        {
+        "cod": "Código: 308.2654",
+        "nombre": "Conjunto Isaura",
+        "foto":"../img/conjunto.isaura.jpg"
+        },
+        {
+        "cod": "Código: 202.1624",
+        "nombre": "Pijama Grey",
+        "foto":"../img/PIJAMA.GREY.jpg"
+        },
+        {
+        "cod": "Código: 340.9554",
+        "nombre": "Conjunto Iris",
+        "foto":"../img/CONJUNTO.IRIS.jpg"
+        },
+        {
+        "cod": "Código: 204.7023",
+        "nombre": "Medias Fallon",
+        "foto":"../img/medias.fallon.jpg"
+        },
+        {
+        "cod": "Código: 290.0821",
+        "nombre": "Medias GAP",
+        "foto":"../img/medias.gap.jpg"
+        },
+        {
+        "cod": "Código: 350.4781",
+        "nombre": "Pantalón Frani",
+        "foto":"../img/pant.frani.jpg"
+        },
+        {
+        "cod": "Código: 230.4614",
+        "nombre": "Conjunto Cosme",
+        "foto":"../img/CONJUNTO.COSME.jpg"
+        },
+        {
+        "cod": "Código: 280.2654",
+        "nombre": "Buzo Cleo",
+        "foto":"../img/BUZO.CLEO.jpg"
+        },
+        {
+        "cod": "Código: 310.4853",
+        "nombre": "Remera Gretel",
+        "foto":"../img/REMERA.GRETEL.jpg"
+        }
+    ]
+}
